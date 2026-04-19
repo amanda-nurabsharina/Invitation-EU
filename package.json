@@ -1,0 +1,13 @@
+{
+  "name": "invitation-client",
+  "version": "1.0.0",
+  "description": "Wedding Invitation Client Sites with htmx",
+  "private": true,
+  "scripts": {
+    "dev": "live-server public --port=3000 --open=/",
+    "build": "echo 'Static files, no build needed'"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
